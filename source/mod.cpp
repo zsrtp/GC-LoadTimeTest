@@ -283,6 +283,10 @@ namespace mod
 			}
 			else if (roomIndex == 235) {
 				stageIndex = 53;
+				spawnID = 1;
+			}
+			else if (roomIndex == 236) {
+				spawnID = 0;	
 			}
 			else if (roomIndex == 238) {
 				stageIndex = 54;
